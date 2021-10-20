@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\hobol\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\hobol\\.nuget\\packages"
+    ]
+  }
+}
